@@ -1,2 +1,3 @@
-def least_factorial():
+def least_factorial(n: int) -> int:
     pass
+
