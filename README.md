@@ -1,7 +1,6 @@
 # Databased Take at home assignment
 
-[![Build Status](https://travis-ci.com/lingnvnv/takehomeassignment.svg?branch=main)](https://travis-ci.com/github/lingnvnv/takehomeassignment/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lingnvnv/takehomeassignment/blob/main/LICENSE)
+[![Build Status](https://travis-ci.com/lingnvnv/takehomeassignment.svg?branch=main)](https://travis-ci.com/github/lingnvnv/takehomeassignment/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lingnvnv/takehomeassignment/blob/main/LICENSE)
 
 
 ## Overview
