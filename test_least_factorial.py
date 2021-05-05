@@ -2,7 +2,7 @@ import pytest
 from least_factorial import least_factorial
 
 
-class TestAssrt():
+class TestAssert():
     @pytest.mark.parametrize("n, expected", [
         (17, 24),
         (5, 6),
