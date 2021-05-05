@@ -43,7 +43,9 @@ For example, there are 4 students and 6 treats. The students arrange them- selve
 
 ### 3.2 Constraints
 Notice the constraints for this problem. These are very large numbers, although it is highly unlikely there exists a class with that many students and treats, we still will be testing with large inputs.
-1. 1≤n≤10**9 2. 1≤m≤10**9 3. 1≤s≤n
+1. 1≤n≤10^9 
+2. 1≤m≤10^9 
+3. 1≤s≤n
 
 ### 3.3 Test Cases
 1. student_treats(5,2,1) = 2 
