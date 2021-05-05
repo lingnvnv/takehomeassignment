@@ -22,4 +22,4 @@ class TestAssert():
             student_treats(5, 3, 6)
         assert excinfo.type == ValueError
         assert "hair number is out of range" in str(
-            excinfo.value
+            excinfo.value)
